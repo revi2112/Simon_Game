@@ -18,4 +18,6 @@ Game rules
 
 8. Continue playing as long as you can repeat the sequence.
 
+https://revi2112.github.io/Simon_Game/
+
 
